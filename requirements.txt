@@ -1,0 +1,11 @@
+matplotlib
+scipy
+sklearn
+parfit
+scikit-plot
+pandas
+nilearn
+sklearn-rvm
+nipype
+scikit-learn
+imblearn
